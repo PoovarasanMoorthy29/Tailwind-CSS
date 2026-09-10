@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+/*  customized fonts  */
+@theme{
+    --font-black:"Black Ops One",sans-serif;
+}
